@@ -1,3 +1,3 @@
-[Link to my website](adamwk97.epizy.com)
+Website link -> adamwk97.epizy.com
 
 I had a few problems with this module. Mainly trying to figure out the structure of the index.html file as well as understanding the style.css file. I uploaded custom header, footer, linkrollover and tab images however they did not show up on my website even when I completely cleared the old ones and rewrote over them. Even now, my website has some random bar with a blue gradient that I have no idea where it came from. I also do not know why my tabs are invisible and only show up when hovering over them and I also could not figure out how to create a new webpage that redirects to my Java code. Overall I think this was a lot to try to understand but hopefully I will have an easier time once I get more familiar with the structure. 
